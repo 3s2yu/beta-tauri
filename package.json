@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-3s2yu/beta-tauri.git"
+    "url": "git+https://github.com/3s2yu/beta-tauri.git"
   },
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-3s2yu/beta-tauri/issues"
+    "url": "https://github.com/3s2yu/beta-tauri/issues"
   },
-  "homepage": "https://github.com/org-3s2yu/beta-tauri#readme"
+  "homepage": "https://github.com/3s2yu/beta-tauri#readme"
 }
